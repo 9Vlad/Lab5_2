@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Lab5_2
 {
-    class River
+    public class River
     {
         public string Name;
         public double Depth;
